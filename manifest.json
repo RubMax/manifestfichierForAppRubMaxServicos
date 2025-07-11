@@ -1,18 +1,19 @@
 {
-  "name": "Mon Entreprise App",
-  "short_name": "RubMax Servicos",
-  "start_url": "./index.html",
+  "name": "Mon App Script PWA",
+  "short_name": "AppPWA",
+  "start_url": "https://script.google.com/macros/s/TON_DEPLOY_ID/exec",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#317EFB",
+  "theme_color": "#4a90e2",
+  "description": "Démo PWA via Apps Script",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
