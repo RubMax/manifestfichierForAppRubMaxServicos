@@ -1,7 +1,7 @@
 {
   "name": "Mon App Script PWA",
   "short_name": "AppPWA",
-  "start_url": "https://script.google.com/macros/s/TON_DEPLOY_ID/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbw30GAvdKQBcKxjChYxFkonMvfdesD9bNjbailvVOANkAxC3AaSMXYm8ydIvYF5xeGF6w/exec",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4a90e2",
